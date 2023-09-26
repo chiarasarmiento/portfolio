@@ -1,6 +1,6 @@
-# TinDog Page
+# Website Portfolio
 
-A startup landing page for TinDog, an online dating app for dogs.
+A website that showcases my background, skills, and portfolio of my works and projects.
 
 ## Demo
 
