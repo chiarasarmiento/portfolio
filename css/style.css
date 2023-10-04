@@ -92,12 +92,11 @@ a{
   transition: 0.5s;
 }
 .banner{
-   background-image: url("../images/blob3.svg");
-    background-position: center;
-    background-size: cover;
- 
-  
+  background-image: url("../images/blob3.svg");
+  background-position: center;
+  background-size: cover;
 }
+
 #banner-img img{
   height: 278px;
 }
@@ -282,11 +281,6 @@ p.grid-title {
   padding: 20px;
   text-align: left;
 }
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
 .form ul {
   list-style-type: none;
   padding: 0;
@@ -368,8 +362,12 @@ p.grid-title {
   .navbar .navbar-menu li {
       margin: 20px 0;
   }
-
-  
+  #about .d-flex {
+    gap: 0;
+  }
+  #skills {
+    margin-top: 3rem !important;
+  }
 }
 
 @media (max-width: 767px) {
